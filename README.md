@@ -1,16 +1,16 @@
-# buscador_gifs
+# App Buscador de Gifs
 
-A new Flutter project.
+App construído em Flutter.
+
+App em desenvolvimento.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto é um modelo de Buscador de Gifs construído em Flutter baseado no site GIPHY.
 
-A few resources to get you started if this is your first Flutter project:
+- [Download da apk - Buscador de Gifs](https://drive.google.com/file/d/1Tv8incWbPkhEXz3a79MJxDCAqyQc-fGb/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Imagens do App da Loja Virtual
+
+![Alt Text](https://firebasestorage.googleapis.com/v0/b/projetoflutter-d9c64.appspot.com/o/App%20Buscador%20de%20Gif.jpg?alt=media&token=53d2d4e5-0c67-4053-b4b7-64ebe01b0f47)
